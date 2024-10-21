@@ -1,0 +1,8 @@
+Adam 83
+Alice 56
+Bob 34
+Charley 68
+John 46
+Kenny 78
+Harry 91
+Michel 57
