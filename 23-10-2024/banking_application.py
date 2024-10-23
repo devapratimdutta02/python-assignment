@@ -13,7 +13,7 @@ def transfer_funds(from_acc, to_acc, amount):
         raise ValueError("Error: Invalid Account Number!")
 
     if accounts[from_acc] < amount:
-        raise ValueError("Error: Transferring amount is more than the available balance!")
+        raise ValueError("Error: Insufficient Funds!")
 
     accounts[from_acc] -= amount
     accounts[to_acc] += amount
