@@ -1,6 +1,6 @@
-Python Lab Assignment : 23.09.2024
+**Python Lab Assignment : 23.09.2024**
 
- Problem 1: Create a list of students, where each student is represented by a dictionary 
+Problem 1: Create a list of students, where each student is represented by a dictionary 
 containing the student's ID, name, and grade. Write a function to add a new student to the list. 
 Extend the function to check if a student with the same ID already exists and prevent duplicates. 
 
