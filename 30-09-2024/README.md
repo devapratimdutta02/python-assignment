@@ -1,4 +1,5 @@
 3rd Sem MCA /Lab Task/30.09.2024 
+
 Task 1: Movie Rental Store 
 Objective: 
 Create a simple movie rental system for managing movies and customers. 
@@ -15,6 +16,7 @@ o Display available movies and rented movies.
 o Calculate rental earnings. 
  Modules: Organize functions for movie catalog management, rentals, and earnings into 
 separate modules. 
+
 Task 2: Expense Tracker 
 Objective: 
 Create an expense tracking system that allows users to log daily expenses and categorize them. 
